@@ -1,4 +1,4 @@
-
+#it is command lines true 
 
 num = int(input("Enter a number:"))
 if num % 2 == 0:
